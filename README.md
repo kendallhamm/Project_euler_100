@@ -25,7 +25,7 @@ Take whatever I have so far (logic paragraph, selected functions, research) and 
 Frequently I'll find myself circling back to step 2 here. This is where I may end up receiving assistance (see below).
 I attempt to document both assistance and logic as I go but my earlier problems are not documented exceedingly well. I have gotten better at that. 
 
-## 4. Solve Problem
+## 4. Closeout the Problem
 Assuming step 3 went well and I wasn't totally defeated I now have a solution. 
 Final steps are adding additional documentation (yes, that should have already been done but it isn't always...) and ensuring I preserve any functions that may be useful later in `functions.py`. Lastly, I commit the file to the repo.
 
